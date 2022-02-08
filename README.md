@@ -1,7 +1,7 @@
 # BancaDeDesarrolloDataMEXICO #AERtec
 Entregable de investigación acerca de empresas exportadoras en México en el año 2020
 
-Introducción
+# Introducción
 
    En México la Banca de Desarrollo a través de sus distintas entidades crediticias, poseen un papel principal tanto en su rol de captación como de préstamos hacia distintos actores económicos, con el objetivo de facilitar el acceso al ahorro, financiamiento, etc., al mismo tiempo que guía a empresas y empresarios a la definición de estrategias necesarias para el alcance de los propósitos económicos del negocio y al desarrollo económico nacional.
 
